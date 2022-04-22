@@ -1,0 +1,2 @@
+train_mse val_mse test_mse
+5.627156e-10 8.523054e-10 5.290397e-09

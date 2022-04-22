@@ -1,0 +1,3 @@
+Train and Test error avg over 5 trials (val_mse is the avg. validation error of the selected hyperparameter during the grid search)
+train_mse val_mse test_mse
+1.424669e-07 3.327074e-07 3.141332e-07

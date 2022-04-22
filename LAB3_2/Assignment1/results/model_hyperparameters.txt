@@ -1,0 +1,6 @@
+input scaling = 0.300000
+n reservoid units = 1000
+rho desired = 0.850000
+reg. coefficient = 0.000000
+reservoir connectivity = 0.300000
+n_transient = 20 (Number of reservoid states discarted)
